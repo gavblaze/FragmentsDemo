@@ -14,7 +14,6 @@ import static com.example.android.fragmantsdemo_fragment_interaction.FragmentAct
 public class CountriesDescriptionFragment extends Fragment {
     View rootView;
     TextView descriptionTextView;
-    String country;
     private static final String TAG = CountriesDescriptionFragment.class.getSimpleName();
 
     @Nullable
@@ -34,9 +33,6 @@ public class CountriesDescriptionFragment extends Fragment {
             country = getArguments().getString(COUNTRY_NAME_KEY);
         }
         setDescription(country);
-
-        Log.i(TAG, "COUNTRY = " + country);
-
     }
 
 

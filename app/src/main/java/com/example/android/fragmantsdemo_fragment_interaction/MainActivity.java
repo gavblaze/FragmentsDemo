@@ -4,8 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements FragmentActionListener {
-    //    private int orientation;
-//    String selectedCountry;
+
     private static final String TAG = MainActivity.class.getSimpleName();
 
     @Override
