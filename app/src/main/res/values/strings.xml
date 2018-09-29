@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FragmantsDemo-fragment-interaction</string>
+
+    <string-array name="countries">
+        <item>Botswana</item>
+        <item>Lesotho</item>
+        <item>Namibia</item>
+        <item>South Africa</item>
+        <item>Swaziland</item>
+        <item>Zimbabwe</item>
+        <item>Angola</item>
+    </string-array>
+
+    <string name="Botswana">Botswana (/bɒtˈswɑːnə/ (About this sound listen)), officially the Republic of Botswana (Tswana: Lefatshe la Botswana), is a landlocked country located in Southern Africa. Formerly the British protectorate of Bechuanaland, Botswana adopted its new name after becoming independent within the Commonwealth on 30 September 1966.</string>
+    <string name="Lesotho">Lesotho (/ləˈsuːtuː/ (About this sound listen),[5] Sotho pronunciation: [lɪ’sʊːtʰʊ]) officially the Kingdom of Lesotho (Sotho: Muso oa Lesotho) is an enclaved country in southern Africa. It is just over 30,000 km2 (11,583 sq mi) in size and has a population of around 2 million. Its capital and largest city is Maseru</string>
+    <string name="Namibia">Namibia (/nəˈmɪbiə/ (About this sound listen), /næˈ-/),[17][18] officially the Republic of Namibia (German: About this sound Republik Namibia (help·info); Afrikaans: Republiek van Namibië), is a country in southern Africa. Its western border is the Atlantic Ocean; it shares land borders with Zambia and Angola to the north, Botswana to the east and South Africa to the south and east. Although it does not border Zimbabwe, less than 200 metres of the Zambezi River (essentially a small bulge in Botswana to achieve a Botswana/Zambia micro-border) separates the two countries. </string>
+    <string name="SouthAfrica">South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres (1,739 mi) of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans;[9][10][11] to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe</string>
+    <string name="Swaziland">Swaziland, a small, landlocked monarchy in southern Africa, is known for its wilderness reserves and festivals showcasing traditional Swazi culture. Marking its northeastern border with Mozambique and stretching down to South Africa, the Lebombo Mountains are a backdrop for Mlawula Nature Reserve’s many hiking trails. Nearby Hlane Royal National Park is home to diverse wildlife including lions, hippos and elephants.</string>
+    <string name="Zimbabwe">Zimbabwe (/zɪmˈbɑːbweɪ, -wi/), officially the Republic of Zimbabwe,[13] is a landlocked country located in southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. A country of roughly 16 million[5] people, Zimbabwe has 16 official languages,[3] with English, Shona, and Ndebele the most commonly used.</string>
+    <string name="Angola">Angola (/ænˈɡoʊlə/ (About this sound listen); Portuguese: [ɐ̃ˈɡɔlɐ]), officially the Republic of Angola (Portuguese: República de Angola; Kikongo, Kimbundu and Umbundu: Repubilika ya Ngola), is a west-coast country of south-central Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to the west.</string>
+    <string name="harare">Harare is the bomb</string>
+
+</resources>
