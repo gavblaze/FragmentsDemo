@@ -1,4 +1,4 @@
-package com.example.android.fragmantsdemo_fragment_interaction;
+package com.example.android.fragmentsdemo;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

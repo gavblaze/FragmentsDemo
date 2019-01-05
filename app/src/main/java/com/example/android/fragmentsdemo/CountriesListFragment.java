@@ -1,4 +1,4 @@
-package com.example.android.fragmantsdemo_fragment_interaction;
+package com.example.android.fragmentsdemo;
 
 import android.content.Context;
 import android.os.Build;
@@ -14,9 +14,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import java.util.Objects;
 
-import static com.example.android.fragmantsdemo_fragment_interaction.FragmentActionListener.ACTION_COUNTRY_CLIKED;
-import static com.example.android.fragmantsdemo_fragment_interaction.FragmentActionListener.ACTION_KEY;
-import static com.example.android.fragmantsdemo_fragment_interaction.FragmentActionListener.COUNTRY_NAME_KEY;
+import static com.example.android.fragmentsdemo.FragmentActionListener.ACTION_COUNTRY_CLIKED;
+import static com.example.android.fragmentsdemo.FragmentActionListener.ACTION_KEY;
+import static com.example.android.fragmentsdemo.FragmentActionListener.COUNTRY_NAME_KEY;
 
 public class CountriesListFragment extends Fragment {
 

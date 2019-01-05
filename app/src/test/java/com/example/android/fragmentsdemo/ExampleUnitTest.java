@@ -1,4 +1,4 @@
-package com.example.android.fragmantsdemo_fragment_interaction;
+package com.example.android.fragmentsdemo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.android.fragmantsdemo_fragment_interaction;
+package com.example.android.fragmentsdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.android.fragmantsdemo_fragment_interaction", appContext.getPackageName());
+        assertEquals("com.example.android.fragmentsdemo", appContext.getPackageName());
     }
 }
